@@ -1,1 +1,3 @@
-# maquinarus
+# Maquinarus
+
+Repository for Maquinarus website.
